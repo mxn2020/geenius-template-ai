@@ -1,0 +1,16 @@
+name: geenius-template-ai
+project_scope: main
+project_type: standalone
+description: Geenius AI Template — AI chat & prompt management starter with React + Convex + ConvexAuth + Tailwind CSS 4
+tier: prototype
+lane: client-work
+priority: medium
+oss: true
+stack: ["typescript", "react", "vite", "convex", "tailwind", "tanstack"]
+repo: "https://github.com/mxn2020/geenius-template-ai"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["geenius-template-ai", "convex", "react", "template", "starter", "client"]
+notes: null
+id: null
+category: boilerplate
